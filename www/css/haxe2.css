@@ -1074,3 +1074,13 @@ table.threads td {
 	color				: #c35700;
 }
 
+/* Google search bar style */
+input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
+    border-color: #CE7918;
+  }
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    border-color: #CE7918;
+    background-color: #CE7918;
+    background-image: none;
+    filter: none;
+}
