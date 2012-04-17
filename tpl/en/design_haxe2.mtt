@@ -38,7 +38,7 @@
 					    var options = new google.search.DrawOptions();
 					    options.setAutoComplete(true);
 					    customSearchControl.setAutoCompletionId('008143996983163686627:ohovhuovssi+qptype:1');
-					    options.enableSearchboxOnly("http://");
+					    options.enableSearchboxOnly("http://http://haxe.org/wiki/search", "cse_query");
 					    customSearchControl.draw('cse-search-form', options);
 					  }, true);
 					</script>
